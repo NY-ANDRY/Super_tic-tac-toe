@@ -1,2 +1,3 @@
 # Super_tic-tac-toe
-Basic Super tic tac toe game
+Compile and run Go.java
+2 player only
